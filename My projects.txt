@@ -6,3 +6,6 @@ Current Project List
 4) Keep Learning Census
 5) Tableau - DAVIS
 6) LMDA?
+7) Github
+8) Wordpress
+9) Make a Website
